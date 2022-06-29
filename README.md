@@ -55,9 +55,29 @@ A list of technologies used within the project:
 ***
 ## Data Understanding & Preparation     
 
-## Project Visuals/EDA            
+The excel file contains different files within itself, I used the total immigrants file. Although the data is also available as male and female migrants stock. The first 15 rows were skipped while reading the data. Because it contained general information and column headers started from below.    
   
-  ### 1.The overall trend of immigration to Germany from 1990 to 2019.         
+![alt text](https://github.com/WaheedAhmad-DS/United-Nations-Recent-Immigration-Data-Analysis/blob/main/Images/15%20rows%20skipped.png)     
+
+  * Columns contained the area od origin (country name) and **'Area of destination'**, **'Year'** and **'Total'** immigrants in that year from all countries to area of destination.
+  
+  * Some columns were dropped and some were renamed. Please see the ipynb notebook.
+  
+  * Null values either meant that the data was not available or there was 0 (zero) migration from that country to **'Area of destination'** in that particlue **'Year'**. Therefore the missing values were replaced by zeros.      
+  
+  * So after data wrangling part the final dataframe looked like this:     
+  
+![alt text](https://github.com/WaheedAhmad-DS/United-Nations-Recent-Immigration-Data-Analysis/blob/main/Images/Final%20df.png)     
+*** 
+## Project Visuals/EDA            
+
+To get insights related to partcular countries, different dataframes were created by applying condition such as **'Area of destination' == 'Germany' or 'Pakistan'** or depending upon the question.         
+  
+  ### 1.The overall trend of immigration to Germany from 1990 to 2019.    
+  
+  ***Please check the notebook for code examples.***     
+  
+  
   
   ### 2.The countries which contributed the most and the least towards immigration to Germany.         
   
