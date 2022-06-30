@@ -71,25 +71,30 @@ The excel file contains different files within itself, I used the total immigran
 *** 
 ## Project Visuals/EDA            
 
-To get insights related to partcular countries, different dataframes were created by applying condition such as **'Area of destination' == 'Germany' or 'Pakistan'** or depending upon the question.         
-  
-  ### 1.The overall trend of immigration to Germany from 1990 to 2019.    
-  
-  ***Please check the notebook for code examples.***     
-  
-  
-  
-  ### 2.The countries which contributed the most and the least towards immigration to Germany.         
-  
+To get insights related to partcular countries, different dataframes were created by applying condition such as **'Area of destination' == 'Germany' or 'Pakistan'** or depending upon the question.      
+
+***Please check the notebook for code examples.***
+![alt text](https://github.com/WaheedAhmad-DS/United-Nations-Recent-Immigration-Data-Analysis/blob/main/Images/DF-DE.png)
+  ### 1.The overall trend of immigration to Germany from 1990 to 2019.     
+  ![alt text](https://github.com/WaheedAhmad-DS/United-Nations-Recent-Immigration-Data-Analysis/blob/main/Images/Overall%20Trend%20of%20Immigration%20to%20Germany.png)
+
+  ### 2.The countries which contributed the most and the least towards immigration to Germany. 
+  ![alt text](https://github.com/WaheedAhmad-DS/United-Nations-Recent-Immigration-Data-Analysis/blob/main/Images/Most%20Contributions%20to%20DE%20Immigration.png)
+  ![alt text](https://github.com/WaheedAhmad-DS/United-Nations-Recent-Immigration-Data-Analysis/blob/main/Images/Least%20Contribution%20to%20DE.png)
   ### 3.Syrian civil war effect on Germany.          
-  
+  ![alt text](https://github.com/WaheedAhmad-DS/United-Nations-Recent-Immigration-Data-Analysis/blob/main/Images/Syrian%20War%20effect%20on%20DE.png)
   ### 4.Least and most popular countries where Germans moved to.           
-  
+  ![alt text](https://github.com/WaheedAhmad-DS/United-Nations-Recent-Immigration-Data-Analysis/blob/main/Images/From%20DE-%20to%20developed.png)
+  ![alt text](https://github.com/WaheedAhmad-DS/United-Nations-Recent-Immigration-Data-Analysis/blob/main/Images/From-DE%20to%20least%20developed.png)
   ### 5.Least and most popular countries where Pakistanis moved to.              
-  
+  ![alt text](https://github.com/WaheedAhmad-DS/United-Nations-Recent-Immigration-Data-Analysis/blob/main/Images/pak-moving-to.png)
+  ![alt text](https://github.com/WaheedAhmad-DS/United-Nations-Recent-Immigration-Data-Analysis/blob/main/Images/Pak-%20to%20-least%20developed.png)
   ### 6.What's the trend of peole moving from Pakistan to Germany in comparison to people moving from India and China?          
-  
-  ### 7.Afghan war effect on Pakistan.           
+  ![alt text](https://github.com/WaheedAhmad-DS/United-Nations-Recent-Immigration-Data-Analysis/blob/main/Images/Pak-to-DE.png)
+  ![alt text](https://github.com/WaheedAhmad-DS/United-Nations-Recent-Immigration-Data-Analysis/blob/main/Images/I-C-P%20to%20DE.png)
+  ### 7.Afghan war effect on Pakistan.
+  ![alt text](https://github.com/WaheedAhmad-DS/United-Nations-Recent-Immigration-Data-Analysis/blob/main/Images/Immigration%20to%20Pak.png)
+  ![alt text](https://github.com/WaheedAhmad-DS/United-Nations-Recent-Immigration-Data-Analysis/blob/main/Images/Afghan%20war.png)
 
 ***
 ## Conclusion   
